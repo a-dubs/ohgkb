@@ -12,7 +12,7 @@ Ergonomic one-handed mechanical gaming keyboard with thumb cluster and multi-lay
  - Switches Used: Gateron Clear linear mechanical switches
  - Keycaps Used: Transparent DSA profile keycaps
  - Handwired used 1/4" copper tape, 1N4148 diodes, and 20AWG wire, with a different color wire being used to interconnect each column 
- - 3D model used was not designed by me. It can be found in GitLabs here: (Dactyl Manuform GitLab)[https://gitlab.com/keyboards1]
+ - 3D model used was not designed by me. It can be found in GitLabs here: [Dactyl Manuform GitLab](https://gitlab.com/keyboards1)
 
 
 <br>
