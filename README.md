@@ -1,13 +1,19 @@
-# Boilerplate for Projects on GitHub
+# Handwired One-Handed Gaming Keyboard
 
-This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
+Ergonomic one-handed mechanical gaming keyboard with thumb cluster and multi-layer keymapping powered by QMK and an arduino pro micro, all fully handwired  
 
 <br>
 
 ## Summary
- - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
- - This template will expedite the creation and maintenance of all my various projects' repositories.
- - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+ - Keyboard layout is a Dactyl Manuform 5x6 
+ - 3D printed by yours truly with white PLA
+    - Took ~72 hours to print on high detail/resolution settings (0.12mm layer height)
+ - Used QMK firmware to create custom firmware 
+ - Switches Used: Gateron Clear linear mechanical switches
+ - Keycaps Used: Transparent DSA profile keycaps
+ - Handwired used 1/4" copper tape, 1N4148 diodes, and 20AWG wire, with a different color wire being used to interconnect each column 
+ - 3D model used was not designed by me. It can be found in GitLabs here: (Dactyl Manuform GitLab)[https://gitlab.com/keyboards1]
+
 
 <br>
 
@@ -19,8 +25,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Project Metadata
 
-**Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Complete)
-
-**Project dates** : Jan '22 - Present  
+**Project Status** : Active  
+**Project Progress** : Functional  
+**Project dates** : Nov '21 - Present  
 
