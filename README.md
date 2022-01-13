@@ -19,9 +19,36 @@ Ergonomic one-handed mechanical gaming keyboard with thumb cluster and multi-lay
 
 ## Image Gallery
 
-### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
+### The OHGKB
+![front view of whole keyboard](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/front_view_1.jpg)
+
 <br>
+
+### Better View of Thumb Cluster
+![better view of thumb cluster](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/front_view_2.jpg)
+
+<br>
+
+### Handwiring of Keyboard
+![top view of handwiring of keyboard](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/handwiring_top_view.jpg)
+
+<br>
+
+### Handwiring of Keyboard - Side View
+![side view of handwiring of keyboard](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/handwiring_side_view.jpg)
+
+<br>
+
+### Close-Up of Arduino's Handwiring 
+![close up of the hardwiring for the arduino](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/arduino_handwiring.jpg)
+
+<br>
+
+### Better View of Rear LED Strip  
+![rear view with led strip](https://github.com/a-dubs/ohgkb/blob/master/image_gallery/rear_view_with_led_strip.jpg)
+
+<br>
+
 
 ## Project Metadata
 
